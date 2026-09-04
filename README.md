@@ -1,4 +1,3 @@
-
 # Berlin Urban Deprivation Analysis
 ### A Cross-City Comparison with London Using Machine Learning and SHAP Explainability
 
@@ -184,4 +183,13 @@ Future work will extend this comparison to a third European city, and explore wh
 
 ---
 
-*This project is part of an ongoing cross-city deprivation research series. The London analysis is available at: [London Urban Inequality Analyser](https://londoninequalitydashboard-r8w46bkkvvt6xmeyxbu7ku.streamlit.app)*
+---
+
+## 🚀 Live App
+
+**[Open the Berlin Deprivation Dashboard](https://berlin-deprivation-analysis-xdgfhmbpccbe5cc8mcvsx3.streamlit.app/)**
+
+---
+
+*This project is part of an ongoing cross-city deprivation research series.*
+*London analysis: [London Urban Inequality Analyser](https://londoninequalitydashboard-r8w46bkkvvt6xmeyxbu7ku.streamlit.app)*
